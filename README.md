@@ -41,7 +41,7 @@
 |---|---------|-------------|------|--------|
 | 1 | [Student Report Card](https://github.com/shanti-agath/student-report-card) | Generates student report card | Python | ✅ Done |
 | 2 | [Titanic Data Cleaning](https://github.com/shanti-agath/titanic-data-cleaning) | Data cleaning & analysis pipeline | Pandas, Numpy | ✅ Done |
-| 3 | House Price Predictor | Predict house prices | Sklearn, Streamlit | ⏳ |
+| 3 | [Titanic EDA Report](https://github.com/shanti-agath/titanic-eda-report) | Complete EDA with 12+ charts | Pandas, Matplotlib, Seaborn | ✅ Done |
 | 4 | Employee Attrition | Predict employee leaving | Random Forest | ⏳ |
 | 5 | Customer Segmentation | Cluster customers | KMeans, PCA | ⏳ |
 | 6 | Image Classifier | Classify images | CNN, Keras | ⏳ |
